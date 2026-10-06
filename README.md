@@ -93,26 +93,6 @@
 
 ---
 
-<h2 align="center">🐍 Minhas contribuições</h2>
-
-<div align="center">
-
-<img width="90%" src="https://raw.githubusercontent.com/iohanazz/iohanazz/output/snake.svg" alt="Snake animation"/>
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">📈 Atividade no GitHub</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iohanazz&theme=github-compact&hide_border=true" width="90%" alt="Gráfico de atividade do GitHub"/>
-
-</div>
-
 <br>
 
 ---
